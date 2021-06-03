@@ -1,0 +1,8 @@
+{
+  "short_name": "Time Range Selector",
+  "name": "React Time Range Selector",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
